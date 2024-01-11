@@ -1,4 +1,5 @@
 #!/bin/bash
+echo $1
 echo "enter the value of the number"
 read num
 result=1
