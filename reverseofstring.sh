@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "enter the string"
-read str
+str=shashi
 len=`echo $str | wc -c`
 rev=""
 while [ $len -gt 0 ]
