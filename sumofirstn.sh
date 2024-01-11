@@ -1,7 +1,6 @@
 #!/bin/bash
 echo "enter the value of the number"
-
-read num
+num=5
 result=0
 while [ $num -gt 0 ]
 do
