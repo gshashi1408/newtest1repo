@@ -1,9 +1,5 @@
 #!/bin/bash
-echo $1 $2
-echo $num1
-echo "enter num1"
-$1
-echo "enter num2"
-$2
+num1=10
+num2=25
 sum=`expr $num1 + $num2`
 echo "sum is $sum"
