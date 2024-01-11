@@ -1,5 +1,6 @@
 #!/bin/bash
 echo $1 $2
+echo $num1
 echo "enter num1"
 read num1
 echo "enter num2"
